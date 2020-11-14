@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "報表專案1", "報表專案1\報表專案1.rptproj", "{A171CFB7-0F57-4699-99A4-931AAC36EF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Debug|Default.ActiveCfg = Debug
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Debug|Default.Build.0 = Debug
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Debug|Default.Deploy.0 = Debug
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.DebugLocal|Default.Build.0 = DebugLocal
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Release|Default.ActiveCfg = Release
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Release|Default.Build.0 = Release
+		{A171CFB7-0F57-4699-99A4-931AAC36EF15}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D563AD9-35B7-4DBF-8D33-2D28AF5A4799}
+	EndGlobalSection
+EndGlobal
